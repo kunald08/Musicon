@@ -15,7 +15,7 @@ The emotion recognition model is trained on FER 2013 dataset. It can detect 7 em
 
 - Spotipy
 
--Flask
+- Flask
 
 # Features
 
