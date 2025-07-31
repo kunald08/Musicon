@@ -35,21 +35,21 @@ The emotion recognition model is trained on FER 2013 dataset. It can detect 7 em
 
 Home Page 
 
-![Home Page](#)
+![Home Page](./snapshots/home.png)
 
 About Page
 
-![About Page](#)
+![About Page](./snapshots/about.png)
 
 Emotion Detector & Music Recommendation
 
 It can detect 7 emotions : Happy , Sad , Angry , Neutral , Disgusted , Suprised
 
-![emotions](#)
+![emotions](./snapshots/emotion.png)
 
 Spotify Link 
 
-![spotify](#)
+![spotify](./snapshots/spotify.png)
 
 # Project Components
 
